@@ -30,4 +30,13 @@ Ex) ADD [IT/VersionControl/Git] - Rename Branch
 
 &copy; 2017 Geonho Han
 
-이 저장소는 MIT 라이센스에 의거하여 라이센스가 부여됩니다. 세부적인 내용은 `LICENSE`를 참고하세요.
+이 저장소의 코드는 MIT 라이센스에 의거하여 라이센스가 부여됩니다. 세부적인 내용은 `LICENSE`를 참고하세요.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+### 컨텐츠
+
+모든 컨텐츠는 비영리적인 목적으로 사용 가능하며, 동일 조건 하에 변경이 가능하고, 저작자를 표시해야 합니다. 영리적인 목적으로 사용을 원하실 경우 [hrg921.github.io](https://hrg921.github.io)의 contact메뉴를 이용하여 연락 부탁드립니다.
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
