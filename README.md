@@ -6,7 +6,7 @@
 
 IT에 관련된 지식뿐만 아니라, 철학, 과학 등 다양한 분야에서 얻을 수 있는 짤막한 지식들도 포함되어 있습니다.
 
-현재 0개의 TIL이 작성되었습니다.
+현재 2개의 TIL이 작성되었습니다.
 
 ---
 
@@ -24,7 +24,7 @@ Ex) ADD [IT/VersionControl/Git] - Rename Branch
 
 ## 카테고리
 
-* [IT](#IT)
+* [javascript](#javascript)
 
 ## 라이센스
 
